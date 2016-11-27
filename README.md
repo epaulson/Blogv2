@@ -24,6 +24,11 @@ Tech involved:
 - Shove markdown into Camlistore
 - optionally cross post to Medium
 - stand up a public camli somewhere to serve as backup
+- useful background:
+  - http://bezdelev.com/post/hugo-aws-lambda-static-website/
+  - https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
+  - https://github.com/danielfrg/pelican-ipynb
+  - http://danielfrg.com/blog/2015/09/28/crawling-python-selenium-docker/ - a nice example of notebooks in pelican
 
 ## Phase 3
 - Create link notebooks in jupyter
